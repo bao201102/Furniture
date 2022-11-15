@@ -1,7 +1,7 @@
 <?php
 define("HOST", "localhost");
 define("DB", "db_furniture");
-define("USER", "root");
+define("USER", "");
 define("PASSWORD", "");
 
 //Lấy hosing hiện tại
